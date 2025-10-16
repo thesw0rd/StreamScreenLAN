@@ -1,6 +1,6 @@
 # 🖥️ StreamScreenLAN
 
-A lightweight, cross-platform tool for streaming your desktop over **HTTP** within your local network — viewable directly in any browser.
+A lightweight, cross-platform tool for streaming your desktop over **HTTP** within your local network — viewable directly in any browser. Or, if you set port-forwarding on your router, it can be accessed from anywhere in internet.
 
 ---
 
